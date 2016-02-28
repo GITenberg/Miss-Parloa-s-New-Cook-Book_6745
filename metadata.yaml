@@ -1,0 +1,25 @@
+_repo: Miss-Parloa-s-New-Cook-Book_6745
+creator:
+  author:
+    agent_name: Parloa, Maria
+    alias: Parloa, Miss (Maria)
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '2186'
+    url: http://www.gutenberg.org/2009/agents/2186
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Parloa
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: Miss Parloa's New Cook Book
+url: http://www.gutenberg.org/ebooks/6745
